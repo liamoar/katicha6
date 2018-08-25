@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554126838212",
+    "firebase_url": "https://katicha6-b2f6f.firebaseio.com",
+    "project_id": "katicha6-b2f6f",
+    "storage_bucket": "katicha6-b2f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554126838212:android:35ab44766da93edc",
+        "android_client_info": {
+          "package_name": "com.example.welcome.katicha6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554126838212-prvccevaqfvnbosc5pmk0q4nd8bg4gts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.welcome.katicha6",
+            "certificate_hash": "4ab05b1fdbd836e4d458877808fce0f5782794c7"
+          }
+        },
+        {
+          "client_id": "554126838212-j5859rvemkvqp592cgjscim8rmfgkr38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4UzYqmV2468aVPceYwsHFolte2ilri4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554126838212-j5859rvemkvqp592cgjscim8rmfgkr38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
